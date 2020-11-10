@@ -93,5 +93,9 @@ class AuthorsController extends Controller
             'deleted' => true
         ], 200);
     }
+
+    // public function test(){
+
+    // }
     //
 }
